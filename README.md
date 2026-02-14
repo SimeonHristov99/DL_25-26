@@ -36,9 +36,7 @@ Please follow the instructions in one of the following two folders:
 
 ## ⏰ Schedules
 
-- [ ] Homework 1: 03/04.04 - 04.05.
-- [ ] Homework 2: 15.05 - 07.06.
-- [ ] Exam: ~09.05. Rooms: ???. Time: start? - end? (2 hours). Content: coding + a few theoretical questions.
+- [ ] Exam: ~09.05. Rooms: ???. Time: start? - end? (1 hour). Content: theoretical questions.
 - [ ] Projects: 10/11.05 - (date_of_defense - 1 day)?. Topic: suggest & get approved or choose from pre-approved list.
 
 ## 📚 Resources
@@ -103,7 +101,15 @@ They have to come personally to me and tell me or send me an email with their fa
 
 ### How will I be graded?
 
-There will be two homeworks, an exam, a project defense and a discussion after the defense.
+There will be a midterm theoretical exam, a project defense and a discussion after the defense.
+
+### How many homeworks would there be?
+
+$0$.
+
+### Would there be any coding tasks in the midterm?
+
+No.
 
 ### What is "the discussion"?
 
