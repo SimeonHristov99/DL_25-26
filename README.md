@@ -36,7 +36,7 @@ Please follow the instructions in one of the following two folders:
 
 ## ⏰ Schedules
 
-- [ ] Exam: ~09.05. Rooms: ???. Time: start? - end? (1 hour). Content: theoretical questions.
+- [ ] Midterm: ~09.05. Rooms: ???. Time: start? - end? (1 hour). Content: theoretical questions.
 - [ ] Projects: 10/11.05 - (date_of_defense - 1 day)?. Topic: suggest & get approved or choose from pre-approved list.
 
 ## 📚 Resources
