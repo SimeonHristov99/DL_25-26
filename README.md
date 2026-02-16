@@ -99,6 +99,10 @@ Everything is ok. Just tell me or send me an email. I only need your faculty num
 
 They have to come personally to me and tell me or send me an email with their faculty number.
 
+### Which version of Python are we using?
+
+Python 3.12.4
+
 ### How will I be graded?
 
 There will be a midterm theoretical exam, a project defense and a discussion after the defense.
