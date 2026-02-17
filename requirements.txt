@@ -1,0 +1,25 @@
+# Runtime
+numpy
+pandas
+matplotlib
+PyQt6
+tqdm
+scikit-learn
+scikit-image
+torch
+torchvision
+torchaudio
+torchmetrics
+transformers
+sentencepiece
+datasets
+accelerate
+evaluate
+rouge_score
+# Development
+mypy
+isort
+yapf
+coverage
+pytest
+openpyxl
