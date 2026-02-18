@@ -4,7 +4,7 @@
 - [Week 01 - Hello, Deep Learning. Implementing a Multilayer Perceptron](#week-01---hello-deep-learning-implementing-a-multilayer-perceptron)
   - [Administrative](#administrative)
   - [What is deep learning?](#what-is-deep-learning)
-  - [Modeling a neuron that can multiply by $2$](#modeling-a-neuron-that-can-multiply-by-2)
+  - [Modeling a neuron that can multiply by 2](#modeling-a-neuron-that-can-multiply-by-2)
   - [Python Packages](#python-packages)
     - [What are packages in Python?](#what-are-packages-in-python)
     - [Importing means executing the script](#importing-means-executing-the-script)
@@ -221,7 +221,7 @@ Lately, different types of combinations of these roles have popped up:
 
 </details>
 
-## Modeling a neuron that can multiply by $2$
+## Modeling a neuron that can multiply by 2
 
 ![w01_multiplier.png](assets/w01_multiplier.png "w01_multiplier.png")
 
@@ -279,9 +279,9 @@ $${\displaystyle f(x)={\frac {1}{1+e^{-x}}}}$$
 
 <details>
 
-<summary>But! Adding the sigmoid activation function actually causes another problem - for what values of w1 and w2 would we have a problem?</summary>
+<summary>But! Adding the sigmoid activation function actually causes another problem - what input values would produce a problem?</summary>
 
-Look at what happens when we have $w_1=0$ and $w_2=0$ (our model is guessing correctly that the output should be `0`):
+Look at what happens when we have $x_1=0$ and $x_2=0$ - the model will return $0$ as an output which will be transformed into $0.5$ by the sigmoid and if we're using $>= 0.5$ as a threshold, we'd return $1$:
 
 ![w01_sigmoid_problem.png](assets/w01_sigmoid_problem.png "w01_sigmoid_problem.png")
 
