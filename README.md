@@ -19,20 +19,20 @@ Please follow the instructions in one of the following two folders:
 ## 🕒 Sessions with Simo
 
 1. :white_check_mark: 17.02, Tuesday, 7:15 pm, 107
-2. 25.02, Wednesday, 7:15 pm, 107
+2. 25.02, Wednesday, 7:30 pm, 107
 3. **02.03, Monday, 7:15 pm, 107**
-4. 04.03, Wednesday, 7:15 pm, 107
-5. 11.03, Wednesday, 7:15 pm, 107
-6. 18.03, Wednesday, 7:15 pm, 107
-7. 25.03, Wednesday, 7:15 pm, 107
-8. 01.04, Wednesday, 7:15 pm, 107
-9. 08.04, Wednesday, 7:15 pm, 107
-10. 22.04, Wednesday, 7:15 pm, 107
-11. 29.04, Wednesday, 7:15 pm, 107
-12. 13.05, Wednesday, 7:15 pm, 107
-13. 20.05, Wednesday, 7:15 pm, 107
-14. 27.05, Wednesday, 7:15 pm, 107
-15. 03.06, Wednesday, 7:15 pm, 107
+4. 04.03, Wednesday, 7:30 pm, 107
+5. 11.03, Wednesday, 7:30 pm, 107
+6. 18.03, Wednesday, 7:30 pm, 107
+7. 25.03, Wednesday, 7:30 pm, 107
+8. 01.04, Wednesday, 7:30 pm, 107
+9. 08.04, Wednesday, 7:30 pm, 107
+10. 22.04, Wednesday, 7:30 pm, 107
+11. 29.04, Wednesday, 7:30 pm, 107
+12. 13.05, Wednesday, 7:30 pm, 107
+13. 20.05, Wednesday, 7:30 pm, 107
+14. 27.05, Wednesday, 7:30 pm, 107
+15. 03.06, Wednesday, 7:30 pm, 107
 
 ## ⏰ Schedules
 
