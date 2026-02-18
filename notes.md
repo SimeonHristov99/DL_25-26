@@ -291,7 +291,7 @@ Look at what happens when we have $x_1=0$ and $x_2=0$ - the model will return $0
 
 <summary>How do we fix this?</summary>
 
-We need to keep the weights at `0` but also add another term that can control the logit value when all weights are `0`. Welcome, ***bias***.
+Welcome, ***bias***! It'll handle the logic the neuron would apply when the linear combination adds up to $0$, be it due to the weights being $0$ or the inputs.
 
 ![w01_bias.png](assets/w01_bias.png "w01_bias.png")
 
