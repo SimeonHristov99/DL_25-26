@@ -756,10 +756,9 @@ Since we'll be defining different modules in `dl_lib` which we would like to sto
 
 **Description:**
 
-Let's begin adding modules to `dl_lib`. Define a class `Sigmoid` in the module `nn` that has two methods:
+Let's begin adding modules to `dl_lib`. Define a class `Sigmoid` in the module `nn` that has one method:
 
 - `forward`: takes an input and applies the sigmoid function element-wise.
-- `__call__`: calls the method `forward`.
 
 When testing the module instead of providing it lists of values or `numpy` array, try to pass PyTorch `tensor` objects. Just like `numpy` you can generate random numbers `torch.randn(how_many_to_generate)` or construct your own tensor via `torch.tensor([1, 2, 3])`.
 
